@@ -63,8 +63,8 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
-**Mary H. Z.**  
+**Mary Huaiquin Z.**  
 Proyecto desarrollado como parte del curso *Machine Learning – Módulo 4*  
 (Actividad de ajuste de hiperparámetros y optimización de modelos)
