@@ -1,6 +1,6 @@
-# 🩺 Clasificación Médica – Optimización de Modelos (Módulo 4)
+# Clasificación Médica – Optimización de Modelos (Módulo 4)
 
-## 📖 Descripción General
+##  Descripción General
 
 Este proyecto corresponde a la **Actividad de la Sesión 2 del Módulo 4** del curso de *Machine Learning*, cuyo objetivo fue **construir un modelo de clasificación médica** para predecir la probabilidad de diabetes en pacientes, utilizando el dataset **Pima Indians Diabetes Dataset**.
 
@@ -8,7 +8,7 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 ---
 
-## 📂 Contenido del Repositorio
+##  Contenido del Repositorio
 
 | Archivo | Descripción |
 |----------|--------------|
@@ -18,7 +18,7 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 ---
 
-## ⚙️ Decisiones Técnicas
+##  Decisiones Técnicas
 
 - **Modelo base:** Se eligió `RandomForestClassifier` por su estabilidad, facilidad de uso y buen rendimiento en tareas de clasificación médica.
 - **Preprocesamiento:** Se aplicó `StandardScaler` para escalar las variables numéricas y se dividieron los datos en entrenamiento (70%) y prueba (30%).
@@ -30,7 +30,7 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 ---
 
-## 📊 Resultados Principales
+##  Resultados Principales
 
 | Método | Accuracy | F1-Score | Tiempo (s) | Observación |
 |--------|-----------|----------|-------------|--------------|
@@ -41,20 +41,20 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 ---
 
-## 💭 Reflexión Final
+##  Reflexión Final
 
 > Esta actividad me ayudó a entender de forma práctica cómo los **hiperparámetros influyen directamente en el rendimiento de los modelos**.  
 > Al principio me costó visualizar por qué era necesario ajustar tantos parámetros, pero al comparar los métodos comprendí que **no solo se trata de encontrar el mejor modelo, sino también de hacerlo de manera eficiente**.  
 >
 > Me sorprendió que el **Random Search** lograra resultados muy cercanos al Grid Search en mucho menos tiempo, y que herramientas como **Optuna** puedan automatizar aún más ese proceso.  
 >
-> En el futuro me gustaría explorar otros modelos y probar estrategias más avanzadas de optimización, pero esta experiencia me dio una base sólida sobre cómo enfrentar los ajustes de modelos en Machine Learning y cómo evaluar su desempeño de forma más crítica. 🚀
+> En el futuro me gustaría explorar otros modelos y probar estrategias más avanzadas de optimización, pero esta experiencia me dio una base sólida sobre cómo enfrentar los ajustes de modelos en Machine Learning y cómo evaluar su desempeño de forma más crítica. 
 
 ---
 
-## 🧠 Tecnologías y Librerías
+##  Tecnologías y Librerías
 
-- Python 3.x  
+- Python 3
 - Scikit-learn  
 - Optuna  
 - Pandas  
