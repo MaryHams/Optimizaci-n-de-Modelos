@@ -12,9 +12,8 @@ A partir de este conjunto de datos, se entrenaron modelos de **Random Forest** a
 
 | Archivo | Descripción |
 |----------|--------------|
-| `Act2M4_MHZ.ipynb` | Implementación de un modelo base con **RandomForestClassifier**, seguido de **Grid Search** y **Random Search**. Incluye análisis comparativo de métricas y tiempos de ejecución. |
-| `Act2M4Optuna.ipynb` | Versión extendida donde se utiliza **Optuna** para la optimización automática de hiperparámetros. Se compara su rendimiento con las estrategias anteriores. |
-| `README.md` | Documento explicativo del proyecto y reflexión personal. |
+| `Act2M4Optuna.ipynb` |  Implementación de un modelo base con **RandomForestClassifier**, seguido de **Grid Search** y **Random Search**. Incluye análisis comparativo de métricas y tiempos de ejecución. Luego se utiliza **Optuna** para la optimización automática de hiperparámetros. Se compara su rendimiento con las estrategias anteriores. |
+| `README_Act2M4.md` | Documento explicativo del proyecto y reflexión personal. |
 
 ---
 
